@@ -1,4 +1,8 @@
-## Running React on Repl.it
+## Running this project
+
+The Weather App was developed using Replit and easiest way of running it and exploring the code is there: https://replit.com/@kuluders
+
+In terms of running it locally best way to go about it is using `npm run dev`.
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
