@@ -4,6 +4,8 @@ The Weather App was developed using Replit and easiest way of running it and exp
 
 In terms of running it locally best way to go about it is using `npm run dev`.
 
+For static version click [here](https://kuluders.github.io/StaticWeather/).
+
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
 [Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
